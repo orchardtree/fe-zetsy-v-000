@@ -24,8 +24,8 @@ body {
 /* Write all remaining styles here */
 
 #title {
-  border-bottom: 1px solid #98ada6;
-  margin-bottom: 10px;
+  border-bottom: 0.5px solid #98ada6;
+  margin-bottom: 5px;
 }
 
 h1 {
