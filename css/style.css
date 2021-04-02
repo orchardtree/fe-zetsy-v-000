@@ -49,6 +49,7 @@ figcaption {
 }
 
 .press {
+  display: inline-block;
   border: 3px solid #98ada6;
 }
 
