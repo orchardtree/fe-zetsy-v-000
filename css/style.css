@@ -45,12 +45,12 @@ figcaption {
 }
 
 #item {
-  border: 5px solid #98ada6;
+  border: 3px solid #98ada6;
 }
 
 .press {
   display: inline-block;
-  border: 3px solid #98ada6;
+  border: 5px solid #98ada6;
 }
 
 
