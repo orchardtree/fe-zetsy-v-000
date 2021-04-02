@@ -22,6 +22,11 @@ body {
 }
 
 /* Write all remaining styles here */
+
+#title {
+  border-bottom: 1px solid #98ada6;
+}
+
 h1 {
   color: #98ada6;
   font-size: 80px;
