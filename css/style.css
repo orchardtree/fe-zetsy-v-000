@@ -33,6 +33,11 @@ h2 {
   font-size: 30px;
 }
 
+p {
+  color: #6f7f7a; 
+  font-size: 12px;  
+}
+
 #item {
   border: 3px solid #98ada6;
 }
