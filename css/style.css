@@ -32,7 +32,7 @@ h1 {
   color: #98ada6;
   font-size: 80px;
   font-family: 'Baskerville', serif;
-  vertical-align: bottom;
+  padding: 0px;
 }
 
 h2 {
