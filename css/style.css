@@ -52,7 +52,8 @@ p {
 .press {
   display: inline-block;
   border: 5px solid #ccc;
-  transition: ;
+  transition: background-color 0.5s ease;
+  background-color: red;
 }
 
 #copyright {
