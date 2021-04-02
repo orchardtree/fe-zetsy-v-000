@@ -51,9 +51,13 @@ p {
 
 .press {
   display: inline-block;
-  border: 5px solid #ccc;
-  transition: background-color 0.5s ease;
-  background-color: red;
+  /*border: 5px solid #ccc;*/
+  transition: border 0.5s ease;
+  border: red;
+}
+
+.press:hover {
+  border: green;
 }
 
 #copyright {
