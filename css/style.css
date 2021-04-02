@@ -28,7 +28,7 @@ body {
   margin-bottom: 5px;
 }
 
-h1 {
+#title.h1 {
   color: #98ada6;
   font-size: 80px;
   font-family: 'Baskerville', serif;
